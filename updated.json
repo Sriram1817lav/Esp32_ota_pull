@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Config": "FAN",
-      "Version": "7.0.0",
+      "Version": "6.0.0",
       "URL": "https://raw.githubusercontent.com/Sriram1817lav/Esp32_ota_pull/main/app.ino.bin"
     }
   ]
